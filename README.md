@@ -21,7 +21,7 @@ Project Timeline:
 
 [Nov 10] Collect data and make sure to pipeline + match dates from twitter to polymarket + make it scalable.
 
-[Nov 25] Conduct exploratory data analysis, taking the sentimentscores and intial features to begin model development
+[Nov 25] Conduct exploratory data analysis, taking the sentiment scores and intial features to begin model development
 
 [Dec 1] Build up and train predictive models, prepare visualizations and results for presentation
 
